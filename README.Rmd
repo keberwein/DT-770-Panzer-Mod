@@ -1,0 +1,21 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## DT-770 "Panzer" Mod
+
+This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm model was used for this mod, but other models should respond well. The mod includes:
+
+* Balanced re-cable and re-wire. Making the headphones fully balanced, duel entry mini XLR to 4 pin XLR.
+
+* Internal sound dampening / audio witchcraft based on [Bill P's mod](https://www.head-fi.org/f/threads/bill-ps-beyerdynamic-dt770-pro-modding-diary-including-sibilance-elimination.707992/).
+
+* Custom paint job and balanced cable.
+
+*NOTE:* The re-cable and sound dampening portions of this mod can be done indipendantly of each other.
