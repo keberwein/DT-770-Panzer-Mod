@@ -60,6 +60,8 @@ These are the trox T9 that hold the slider forks.
 
 Each ear cup has a "retaining ring" that holds the driver in-place. This can be pried out with a mini-screwdriver with not too much drama, just be careful not to damage the driver. Sorry, I forgot to take a picture of this, but it will be obvious once the pads are off.
 
+There is also a cotton ring and plastic ring on the back of the drivers. Both of these should slide off easily.
+
 ## Balanced Recable
 
 ### Materials
