@@ -18,7 +18,7 @@ This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm mod
 
 * Custom paint job and balanced cable.
 
-*NOTE:* The re-cable and sound dampening portions of this mod can be done independently of each other.
+*NOTE: The re-cable and sound dampening portions of this mod can be done independently of each other.*
 
 ## Sound Impressions
 

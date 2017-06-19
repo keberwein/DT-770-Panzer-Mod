@@ -9,33 +9,29 @@ This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm mod
 
 -   Custom paint job and balanced cable.
 
-*NOTE:* The re-cable and sound dampening portions of this mod can be done independently of each other.
+*NOTE: The re-cable and sound dampening portions of this mod can be done independently of each other.*
 
 Sound Impressions
 -----------------
 
 The dampening modifications tune the sound of the DT770 without changing it completely. Overall, I would say this mod changes the DT770's signature "V-shaped" to a more linear experience. The high-end is pushed back, allowing the mid-range come forward more than before, while the low-end remains largely unchanged.
 
-#### Bass:
-
-The infamous low-end is still there. The bass is more tight and controlled. There is still a mid-bass hump at 200 Hz., which is a characteristic of the driver itself.
-
-#### 
-
-Mid-range: The mid-range seems more forward. Guitars and vocals come through load and clear. According to the frequency response graph, the mids are largely unaffected by the mod. However, in real-life use, the mids are more present. I believe this is a result of them not being drowned out by the high-end in the factory configuration.
-
-#### 
-
-High-end: The high-end is noticeably pushed back, compared to the stock DT770. Frequencies above 6 KHz. drop by nearly 10 dB. This creates more of a linear sound and reduces the sibilance that exists in the 8-9 KHz range on the stock model.
-
-![fig 1](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/billp_spectro.png?raw=true)
+**Red line = Stock DT770. Blue line = With sound dampening.**
 
 *NOTE: The frequency responce graph is from Bill P's mod. As I don't have a sound rig setup at the moment.*
+
+![fig 1](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/billp_spectro.png?raw=true)
 
 Tear Down
 ---------
 
-Once we get the headband and ear pads off, we're only dealing with eight screws, Two `torx T6` on the cups and two `torx T9` on the slider. Remove those and the forks will easily remove and the ear cups will come off the chassis. I've seen older models use mini flat-head screws, but this was a 2016 model and used trox.
+Materials
+
+-   Trox T6
+
+-   Trox T9
+
+Once we get the headband and ear pads off, we're only dealing with eight screws, Two `torx T6` on the cups and two `torx T9` on the slider forks. I've seen older models use mini flat-head screws, but this was a 2016 model and used trox.
 
 Here are the trox T6 on the ear cups.
 
@@ -45,7 +41,7 @@ These are the trox T9 that hold the slider forks.
 
 ![fig 3](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/screws_outside.jpg?raw=true)
 
-\*Pro-<tip:*> Make a sheet with the screws taped in place along with the screw size and position. This comes in really handy if you don't plan to do all this in one day!
+\*\*Pro-<tip:**> Make a sheet with the screws taped in place along with the screw size and position. This comes in really handy if you don't plan to do all this in one day!
 
 ![fig 4](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/screw_sheet.jpg?raw=true)
 
@@ -94,7 +90,7 @@ Below is both drivers desoldered with a diagram of the positive and negative ter
 
 Assuming everything is desoldered without much drama, it's time to drill the ear cups.
 
-*WARNING TRICKIEST PART OF THIS MOD:* Make the holes to the front side of each cup as much as possible. On the first version of this mod I centered them and the drivers would not fit back in the cup properly. Again, **holes toward the front!** To expand on this, here's a [DYI blog](http://www.diyaudioblog.com/2015/05/beyerdynamic-balanced-removable-4-pin.html) that talks about the same issue, about half-way down the page.
+**WARNING TRICKIEST PART OF THIS MOD:** Make the holes to the front side of each cup as much as possible. On the first version of this mod I centered them and the drivers would not fit back in the cup properly. Again, **holes toward the front!** To expand on this, here's a [DYI blog](http://www.diyaudioblog.com/2015/05/beyerdynamic-balanced-removable-4-pin.html) that talks about the same issue, about half-way down the page.
 
 **Problems and Gotcha's**
 
@@ -106,7 +102,7 @@ Assuming everything is desoldered without much drama, it's time to drill the ear
 
 1.  Don't use the nut that the XLR-males came with. Instead, I held the drivers in-place with some industrial strength epoxy. Make sure everything sits correctly before using any epoxy.
 
-2.  On one of my ear cups, the left I think, the driver would not sit correctly even without the nut. I had to use a Dremel to shave about 1 mm. off one side of the connector itself so the driver would sit flat. I got lucky here, shaving too much off the connector would completely break it. Again, it is very important to have your holes at the *absolute front of the ear cup*.
+2.  On one of my ear cups, the left I think, the driver would not sit correctly even without the nut. I had to use a Dremel to shave about 1 mm. off one side of the connector itself so the driver would sit flat. I got lucky here, shaving too much off the connector would completely break it. Again, it is very important to have your holes at the **absolute front of the ear cup**.
 
 Below are both ear cups with the holes drilled. I used the file from some finger nail clippers to smooth out the edges. Note the air duster can. This is to make sure that NO plastic debris were left in the ear cup. Any stray plastic left inside could damage the driver once it is put back in. A light wash with warm water is a good idea too, especially if you plan to paint.
 
@@ -148,7 +144,7 @@ Again, here is the wiring diagram for the drivers.
 
 ![fig 8](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/drivers_plus_minus.jpg?raw=true)
 
-Although not necessary, if you have a "helping hands," now would be the time to use it. I slid a sheet of aluminum foil between the terminals and the back of the driver, just in the off chance any solder dripped down. The nut is in the picture, but is not used--it can be tossed away, or saved for another project.
+Although not necessary, if you have a "helping hands," now would be the time to use it. I slid a sheet of aluminum foil between the terminals and the back of the driver, just in the off-chance any solder dripped down. The nut is in the picture, but is not used--it can be tossed away, or saved for another project.
 
 ![fig 9](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/helping_hands.jpg?raw=true)
 
