@@ -158,6 +158,27 @@ Although not necessary, if you have a "helping hands," now would be the time to 
 
 Once the soldering is done, fit everything back together and apply some epoxy to keep the connectors in-place. You may have to use some heat shrink or a small piece of rubber to ensure a good fit. Just make sure they are rock solid with no movement.
 
+## Sound Dampening
+
+The dampening piece of the mod was borrowed from [Bill P's mod](https://www.head-fi.org/f/threads/bill-ps-beyerdynamic-dt770-pro-modding-diary-including-sibilance-elimination.707992/). I experimented with various configurations of this mod, including ear pad rolling, but couldn't get a significant improvement over Bill's configuration. I eventually switched to ZMF round ear pads, but this was due to comfort and personal preference. The sound dampening works well with the stock DT770 pads.
+
+Below is a picture of the order of the dampening material I used. The top piece of felt is the stock piece from the DT770's. The only difference I made to Bill's mod was to switch the order of felt and paper towels. I used the felt against the driver instead of the paper towels. I felt it allows for more detail in the mid-range, but that's based on my ears, not measurements.
+
+![fig 10](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/dampening_order.jpg?raw=true)
+
+![fig 11](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/finished_v1.jpg?raw=true)
+
+## Cable Build
+
+There's are so many tutorials online devoted to this subject, so we won't go into any detail. However, I wanted to use this space to share a couple of tricks I've picked up over the years to make things easier.
+
+### The Jumper Method
+
+In the re-cable portion of the mod, we used the "bridge" technique to join the pins on our male 4-pin xlr. For the cable, we have to use a different method because we want the wires to exit the terminal straight, instead of to the side.
+
+### Running Paracord
+
+If you have ever run a wire through paracord, you know how tedious it is. There's no "golden ticket" for this, but I've found that a small dab of glue from a hot glue gun makes the process much quicker. This method allows me to do four five-foot wires in about forty minutes instead of an hour.
 
 
 
