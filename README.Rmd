@@ -170,11 +170,11 @@ Below is a picture of the order of the dampening material I used. The top piece 
 
 ## Pad Rolling
 
-* `Version 1` Stock pads: Sounds like a DT770 with a tuned down high-end. The bass remains unchanged, while the mids are slightly more forward.
+* `Version 1` **Stock pads:** Sounds like a DT770 with a tuned down high-end. The bass remains unchanged, while the mids are slightly more forward.
 
-* `Version 2` Brainwavz HM5 pads: Sound stage opens up a lot! More punch in the mid-bass, but bass becomes less controlled. Mid-range seems like it has more detail; this could be a side-affect of the more open sound stage. The high-end gets pushed back even further; probably due to the drivers being pulled away from the ear.
+* `Version 2` **Brainwavz HM5 pads:** Sound stage opens up a lot! More punch in the mid-bass, but bass becomes less controlled. Mid-range seems like it has more detail; this could be a side-affect of the more open sound stage. The high-end gets pushed back even further; probably due to the drivers being pulled away from the ear.
 
-* `Version 3` ZMF lambskin pads: This is the current working version. The ZMF pads open the sound stage and brings more detail to the mid-range. They have more "crush" than the HM5 pads, so the driver sits closer to the ear (like its supposed to), so the detail in the high-end is maintained.
+* `Version 3` **ZMF lambskin pads:** This is the current working version. The ZMF pads open the sound stage and brings more detail to the mid-range. They have more "crush" than the HM5 pads, so the driver sits closer to the ear (like its supposed to), so the detail in the high-end is maintained. Also, much more comfortable than the HM5 pads.
 
 * Future thoughts: Brainwavz HM5 velours would be worth trying out.
 
