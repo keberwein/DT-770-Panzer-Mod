@@ -14,7 +14,7 @@ This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm mod
 Sound Impressions
 -----------------
 
-The dampening modifications tune the sound of the DT770 without changing it completely. Overall, I would say this mod changes the DT770's signature "V-shaped" to a more linear experience. The high-end is pushed back, allowing the mid-range come forward more than before, while the low-end remains largely unchanged.
+The dampening modifications tune the sound of the DT770 without changing it completely. Overall, I would say this mod changes the DT770's signature "V-shaped" to a more linear experience. The high-end is pushed back, allowing the mid-range come forward more than before, while the low-end remains largely unchanged. See the "Pad Rolling" section for more on this.
 
 **Red line = Stock DT770. Blue line = With sound dampening.**
 
@@ -160,6 +160,17 @@ Below is a picture of the order of the dampening material I used. The top piece 
 ![fig 10](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/dampening_order.jpg?raw=true)
 
 ![fig 11](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/finished_v1.jpg?raw=true)
+
+Pad Rolling
+-----------
+
+-   `Version 1` Stock pads: Sounds like a DT770 with a tuned down high-end. The bass remains unchanged, while the mids are slightly more forward.
+
+-   `Version 2` Brainwavz HM5 pads: Sound stage opens up a lot! More punch in the mid-bass, but bass becomes less controlled. Mid-range seems like it has more detail; this could be a side-affect of the more open sound stage. The high-end gets pushed back even further; probably due to the drivers being pulled away from the ear.
+
+-   `Version 3` ZMF lambskin pads: This is the current working version. The ZMF pads open the sound stage and brings more detail to the mid-range. They have more "crush" than the HM5 pads, so the driver sits closer to the ear (like its supposed to), so the detail in the high-end is maintained.
+
+-   Future thoughts: Brainwavz HM5 velours would be worth trying out.
 
 Cable Build
 -----------
