@@ -159,8 +159,6 @@ Below is a picture of the order of the dampening material I used. The top piece 
 
 ![fig 10](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/dampening_order.jpg?raw=true)
 
-![fig 11](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/finished_v1.jpg?raw=true)
-
 Pad Rolling
 -----------
 
@@ -171,6 +169,8 @@ Pad Rolling
 -   `Version 3` **ZMF lambskin pads:** This is the current working version. The ZMF pads open the sound stage and brings more detail to the mid-range. They have more "crush" than the HM5 pads, so the driver sits closer to the ear (like its supposed to), so the detail in the high-end is maintained. Also, much more comfortable than the HM5 pads.
 
 -   Future thoughts: Brainwavz HM5 velours would be worth trying out.
+
+![fig 11](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/finished_v1.jpg?raw=true)
 
 Cable Build
 -----------
