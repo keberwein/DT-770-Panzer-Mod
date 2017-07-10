@@ -1,6 +1,8 @@
 DT-770 "Panzer" Mod
 -------------------
 
+![fig 12](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/final_setup.jpg?raw=true)
+
 This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm model was used for this mod, but other models should respond well. The mod includes:
 
 -   Balanced re-cable and re-wire. Making the headphones fully balanced, duel entry mini XLR to 4 pin XLR.
@@ -176,10 +178,6 @@ Cable Build
 -----------
 
 There's are so many tutorials online devoted to this subject, so we won't go into any detail. However, I wanted to use this space to share a couple of tricks I've picked up over the years to make things easier.
-
-### The Jumper Method
-
-In the re-cable portion of the mod, we used the "bridge" technique to join the pins on our male 4-pin xlr. For the cable, we have to use a different method because we want the wires to exit the terminal straight, instead of to the side.
 
 ### Running Paracord
 
