@@ -184,10 +184,6 @@ Below is a picture of the order of the dampening material I used. The top piece 
 
 There's are so many tutorials online devoted to this subject, so we won't go into any detail. However, I wanted to use this space to share a couple of tricks I've picked up over the years to make things easier.
 
-### The Jumper Method
-
-In the re-cable portion of the mod, we used the "bridge" technique to join the pins on our male 4-pin xlr. For the cable, we have to use a different method because we want the wires to exit the terminal straight, instead of to the side.
-
 ### Running Paracord
 
 If you have ever run a wire through paracord, you know how tedious it is. There's no "golden ticket" for this, but I've found that a small dab of glue from a hot glue gun makes the process much quicker. This method allows me to do four five-foot wires in about forty minutes instead of an hour.
