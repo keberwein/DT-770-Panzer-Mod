@@ -144,7 +144,7 @@ The next step can not be (easily) undone, so here's a quick check list:
 
 3. XLR wires have been soldered and "bridged?"
 
-4. Any painting has been done already?.
+4. Any painting has been done already?
 
 If all of the above are done, then the rest is fairly easy. This step is much less dramatic than desoldering the terminals, since we are only doing two wires each and they don't require a ton of solder.
 
