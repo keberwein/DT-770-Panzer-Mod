@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## DT-770 "Panzer" Mod
 
-![fig0](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/final_setup.jpg?raw=true)
+![fig 0](https://github.com/keberwein/keberwein.github.io/blob/master/images/dt770/final_setup.jpg?raw=true)
 
 This is a headphone modification for the Beyerdynamic DT770 Pro. The 250 ohm model was used for this mod, but other models should respond well. The mod includes:
 
